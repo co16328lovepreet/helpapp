@@ -1,0 +1,8 @@
+Rainbow color
+red
+blue
+green
+orange
+violet
+white
+
